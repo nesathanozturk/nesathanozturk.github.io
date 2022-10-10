@@ -1,0 +1,8 @@
+@media only screen and (max-width: 718px) {
+    .left_container {
+        width: 100%;
+    }
+    .right_container {
+        display: none;
+    }
+}
